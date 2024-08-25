@@ -1,4 +1,4 @@
-name: H501 Discovery
+name: H501Discovery
 dependencies: 
   - python=3.11
   - pip
